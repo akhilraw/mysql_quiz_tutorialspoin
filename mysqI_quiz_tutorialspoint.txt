@@ -1,0 +1,176 @@
+1.
+	it is possible to create multiple indexes from a single table.
+
+2.
+	Which of the following code would allocate the privileges of creating tables and view to the role named student_admin?
+	Ans. - grant create table, create view to student_admin;
+3.
+	group function ignores null values.
+4.
+	
+	REFERENCES USED FOR DEFINING FOREIGN KEY
+5.
+	
+6.
+	"IS NULL" IS USED TO SELECT NULL VALUES FROM A COLUMN
+	I.E. SELECT FIRST_NAME, LAST_NAME FROM STUDENT WHERE FEE IS NULL;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sql mocktest 1
+Ans.
+
+1.	A(N), k
+2.	C(Y)
+3.	B(Y)
+4.	A(Y)
+5.	A(Y)
+6.	A(Y)
+7.	D(N), k
+8.	B(N), K
+9.	B(Y)
+10.	C(Y)
+11.	A(Y)
+12.	D(Y)
+13.	D(N), 
+14.	A(N)
+15.	B(N)
+16.	C(Y)
+17.	A(Y)
+18.	A(Y)
+19.	B(Y)
+20.	A(N)
+21.	D(N)
+22.	C(N)
+23.	C(Y)
+24.	C(Y)
+25.	A(Y)         (9N)
+
+
+SQL MOCKTEST 2
+ANS.
+
+1.	B(Y)
+2.	D(Y)
+3.	C(Y)
+4.	C(N)
+5.	C(Y)
+6.	A(Y)
+7.	C(Y)
+8.	D(Y)
+9.	C(N)
+10.	D(N)
+11.	A(Y)
+12.	A(N)
+13.	B(Y)
+14.	A(Y)
+15.	A(N)
+16.	D(Y)
+17.	C(N)
+18.	D(Y)
+19.	C(N)
+20.	C(Y)
+21.	D(N)
+22.	A(Y)
+23.	D(Y)
+24.	B(Y)
+25.	C(Y)	        (7N)
+
+                   
+SQL MOCKTEST 3
+ANS.
+
+1.	A(N)
+2.	D(Y)
+3.	A(Y)
+4.	C(Y)
+5.	B(Y)
+6.	C(N)
+7.	C(N)
+8.	C(N)
+9.	D(N)
+10.	C(Y)
+11.	C(N)
+12.	D(Y)
+13.	D(Y)
+14.	C(Y)
+15.	B(Y)
+16.	C(N)
+17.	B(N)
+18.	B(N)
+19.	A(N)
+20.	B(Y)
+21.	A(Y)
+22.	D(Y)
+23.	C(Y)
+24.	C(Y)
+25.	A(Y)	      (10N)
+
+
+SQL MOCKTEST 4
+ANS.
+
+1.	C(Y)
+2.	D(Y)
+3.	D(N)
+4.	B(Y)
+5.	A(Y)
+6.	D(Y)
+7.	B(Y)
+8.	C(Y)
+9.	D(N)
+10.	D(N)
+11.	C(Y)
+12.	D(N)
+13.	A(Y)
+14.	C(Y)
+15.	A(Y)
+16.	D(Y)
+17.	D(Y)
+18.	D(Y)
+19.	A(Y)
+20.	B(Y)
+21.	-(NA)
+22.	B(N)
+23.	A(Y)
+24.	A(Y)
+25.	D;(N)           (7N)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
